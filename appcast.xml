@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Application</title>
+<description>Most recent changes with links to updates</description>
+<language>en</language>
+<item>
+<title>Application 2.0.0.0</title>
+<pubDate>Thu, 11 Apr 2024 22:36:04 +05:30</pubDate>
+<sparkle:version>1.0.0.0</sparkle:version>
+<sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+<enclosure url="SnaptrudeManagerAddin.dll" sparkle:version="1.0.0.0" sparkle:shortVersionString="1.0.0" length="167936" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="2WhcHgc+mKg/wx54BbSFqAcwHUt7EJIP8wK5WKHmu+ICXEAjkc1HGTHUsDYhTCQ2JaMhqAKQ3p4Vrwy0yCCzBw=="/>
+</item>
+</channel>
+</rss>
